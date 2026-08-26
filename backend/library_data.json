@@ -24,26 +24,26 @@
     ],
     "members": [
         {
-            "member_id": "pratham",
-            "name": "A01",
+            "member_id": "A01",
+            "name": "Pratham",
             "borrow_books": {},
             "fines": 0.0
         },
         {
-            "member_id": "ronak",
-            "name": "A02",
+            "member_id": "A02",
+            "name": "Ronak",
             "borrow_books": {},
             "fines": 0.0
         },
         {
-            "member_id": "yash",
-            "name": "A03",
+            "member_id": "A03",
+            "name": "Yash",
             "borrow_books": {},
             "fines": 0.0
         },
         {
-            "member_id": "aditiya",
-            "name": "A04",
+            "member_id": "A04",
+            "name": "Aditya",
             "borrow_books": {},
             "fines": 0.0
         }
