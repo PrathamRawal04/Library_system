@@ -1,0 +1,51 @@
+{
+    "books": [
+        {
+            "isbn": "1234",
+            "title": "1984",
+            "author": "R. k Mital",
+            "available_copies": 5,
+            "waitlist": []
+        },
+        {
+            "isbn": "1231",
+            "title": "musafir",
+            "author": "L.S gehlot",
+            "available_copies": 9,
+            "waitlist": []
+        },
+        {
+            "isbn": "0234",
+            "title": "rich daddy poor daddy",
+            "author": "Alex mathus",
+            "available_copies": 4,
+            "waitlist": []
+        }
+    ],
+    "members": [
+        {
+            "member_id": "pratham",
+            "name": "A01",
+            "borrow_books": {},
+            "fines": 0.0
+        },
+        {
+            "member_id": "ronak",
+            "name": "A02",
+            "borrow_books": {},
+            "fines": 0.0
+        },
+        {
+            "member_id": "yash",
+            "name": "A03",
+            "borrow_books": {},
+            "fines": 0.0
+        },
+        {
+            "member_id": "aditiya",
+            "name": "A04",
+            "borrow_books": {},
+            "fines": 0.0
+        }
+    ]
+}

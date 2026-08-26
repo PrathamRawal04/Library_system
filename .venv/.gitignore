@@ -1,0 +1,50 @@
+# create .gitignore with a heredoc
+@"
+# byte-complied / optimized / DILL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python env files
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_store
+Thumbs.Distribution
+
+# logs and Database
+*.log
+*.splite3
+
+# Streamlit cache and uploads
+.streamlit/
+uploads/
+
+# Pytest 
+.cache/
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Secrets and keys
+*.pem
+*.keys
+"@ > .gitignore
